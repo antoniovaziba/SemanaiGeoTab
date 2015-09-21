@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GeoTab</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_paso1">Paso1</string>
+    <string name="title_activity_info_vehiculo">InfoVehiculo</string>
+    <string name="title_activity_info_vehicle2">InfoVehicle2</string>
+</resources>
